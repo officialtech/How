@@ -12,3 +12,5 @@
 
 #### NOTE: Please note that this command will uninstall all packages installed globally, including essential packages that are required for Python to function properly. Use it with caution, and consider creating a virtual environment for your projects to avoid affecting the global environment.
 
+### Bonus: try this as well for many problems `pip cache purge`
+
